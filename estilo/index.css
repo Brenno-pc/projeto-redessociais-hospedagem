@@ -14,7 +14,7 @@ body {
 
 main {
     position: relative;
-    background: url(../imagens/fundo-madeira.jpg);
+    background: url(../imagens/fundo-black.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
