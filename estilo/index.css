@@ -45,8 +45,8 @@ main {
         }
 
         section#rsociais > a >img {
-            width: 40px;
-            margin: 10px ;
+            width: 50px;
+            margin: 8px ;
             border-radius: 13px;
             box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.657);
             box-sizing: border-box;
@@ -55,4 +55,6 @@ main {
         section#rsociais > a >img:hover {
             border: 2px solid rgba(255, 255, 255, 0.674);
             transform: translate(-3px, -3px);
+            box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.657);
+            transition: transform 0.5s, border 0.1s;
         }
