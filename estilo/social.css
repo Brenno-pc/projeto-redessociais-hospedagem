@@ -16,6 +16,8 @@ img {
 }
 
 a {
+    width: 277px ;
+    height: 30px;
     display: block;
     padding: 20px ;
     background-color: darkred;
